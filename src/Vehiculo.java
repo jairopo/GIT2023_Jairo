@@ -15,5 +15,7 @@ public class Vehiculo {
     System.out.println(marca);
   }
   
-  
+  public void mostrarModelo() {
+    System.out.println(modelo);
+  }
 }
